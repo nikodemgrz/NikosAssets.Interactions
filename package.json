@@ -1,0 +1,12 @@
+{
+  "name": "com.nikosassets.interactions",
+  "displayName": "NikosAssets.Interactions",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "keywords": [],
+  "samples": [],
+  "author": {
+    "name": "Nikodem Grzonkowski"
+  },
+  "description": "This package provides basic 3D interaction wrappers with events \nsuch as Hover, UnHover and Interact.\nThe interaction logic via raycasts targeted at colliders is included as well, though you need \nto implement your own input mechanics to trigger the interactions \nand update the hover callbacks at your own pace/ liking."
+}
