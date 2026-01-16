@@ -8,5 +8,6 @@
   "author": {
     "name": "Nikodem Grzonkowski"
   },
-  "description": "This package provides basic 3D interaction wrappers with events \nsuch as Hover, UnHover and Interact.\nThe interaction logic via raycasts targeted at colliders is included as well, though you need \nto implement your own input mechanics to trigger the interactions \nand update the hover callbacks at your own pace/ liking."
+  "description": "This package provides basic 3D interaction wrappers with events \nsuch as Hover, UnHover and Interact.\nThe interaction logic via raycasts targeted at colliders is included as well, though you need \nto implement your own input mechanics to trigger the interactions \nand update the hover callbacks at your own pace/ liking.",
+  "documentationUrl": "https://github.com/nikodemgrz/NikosAssets.Interactions"
 }
