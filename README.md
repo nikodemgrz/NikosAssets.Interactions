@@ -14,9 +14,9 @@ Since I am developing and maintaining this asset package in my spare time, feel 
 
 ### Unity Package Dependency
 
-The current dependency is a fork with performance improvements ([https://github.com/nikodemgrz/NaughtyAttributes](https://github.com/nikodemgrz/NaughtyAttributes)) of the original open-source project NaughtyAttributes by dbrizov: [https://github.com/dbrizov/NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
+The current dependency is a fork with performance improvements ([https://github.com/nikodemgrz/NaughtyAttributes](https://github.com/nikodemgrz/NaughtyAttributes)) of the original open-source project NaughtyAttributes by dbrizov: [https://github.com/dbrizov/NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes).
 
-The original NaughtyAttributes package is compatible with this package in case you already have it installed.
+Note, that the original NaughtyAttributes package is also compatible with this package in case you already have it installed!
 
 Add the following git urls in the Unity PackageManager:
 ```
